@@ -1,0 +1,23 @@
+body{
+	background-color: gray;
+
+}
+p{
+	font-family: cursive;
+	font-size: 50px;
+}
+ul,ol{
+	font-size: 35px;
+	color: gold;
+	margin-left: 170px;
+}
+.li1 li{
+	list-style-type: '\1F420';
+}
+ul ol::marker {
+	color: green; 
+	font-style: ;
+}
+
+
+
